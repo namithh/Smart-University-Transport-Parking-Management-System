@@ -19,5 +19,12 @@
 .env.production.local
 
 npm-debug.log*
-yarn-debug.log*
+yarn-debug.log*git status
 yarn-error.log*
+
+backend/.env
+.env
+**/.env
+
+node_modules/
+**/node_modules/
