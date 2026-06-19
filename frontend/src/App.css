@@ -1,0 +1,14 @@
+/*user Tables*/
+
+.userTabale{
+    @apply bg-white
+}
+.userTabale th{
+    @apply border text-base font-medium
+}
+.userTabale td{
+    @apply border text-base text-center pb-3 pt-3
+}
+.clip-diagonal {
+    clip-path: polygon(50% 0%, 100% 0%, 100% 100%, 10% 100%);
+  }
